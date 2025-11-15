@@ -23,9 +23,28 @@ We're building 8 AI-powered privacy tools that protect everything from your brow
 
 ## 🛠️ The Privacy Gecko Ecosystem
 
-### 🟢 Live Now
+### 🌐 Core Infrastructure
 
-#### [Gecko Advisor](https://github.com/PrivacyGecko/gecko-advisor) 
+#### [Privacy Gecko Website](https://github.com/PrivacyGecko/privacy-gecko-website)
+**Open Source Marketing Website**
+
+Official website for Privacy Gecko - fully open source, MIT licensed, built with Next.js 14.
+
+**Features:**
+- 🦎 Complete product ecosystem showcase
+- 📖 GeckoCore Protocol whitepaper
+- 📱 Fully responsive design with Tailwind CSS
+- 🎯 Privacy-friendly analytics (Plausible)
+- 🔓 No tracking, no cookies, no compromises
+- 📚 Blog, documentation, and resources
+
+**[Visit Website →](https://privacygecko.com)** | **[View Source →](https://github.com/PrivacyGecko/privacy-gecko-website)**
+
+---
+
+### 🟢 Live Products
+
+#### [Gecko Advisor](https://github.com/PrivacyGecko/gecko-advisor)
 **Privacy-First Website Scanner**
 
 Transparent, deterministic privacy analysis for any website. Get detailed privacy scores (0-100) with explainable evidence for every tracker, cookie, and security issue detected.
@@ -109,8 +128,10 @@ We're in early development and building in public. By joining now:
 ## 📚 Resources
 
 - **Website:** [privacygecko.com](https://privacygecko.com)
+- **Whitepaper:** [GeckoCore Protocol Whitepaper](https://privacygecko.com/whitepaper)
 - **Documentation:** [Gecko Advisor Docs](https://github.com/PrivacyGecko/gecko-advisor/tree/main/assets/docs)
-- **Report Issues:** [GitHub Issues](https://github.com/PrivacyGecko/gecko-advisor/issues)
+- **Website Source:** [privacy-gecko-website](https://github.com/PrivacyGecko/privacy-gecko-website)
+- **Report Issues:** Project-specific GitHub Issues
 - **Security:** [Security Policy](https://github.com/PrivacyGecko/gecko-advisor/blob/main/SECURITY.md)
 - **Founder:** [@0xAnonA](https://github.com/ItsAnonA) (building in public)
 
@@ -129,9 +150,11 @@ We welcome contributions from developers, security researchers, privacy advocate
 - 🎨 Design UI/UX improvements
 
 **Start here:**
-- [Contributing Guidelines](https://github.com/PrivacyGecko/gecko-advisor/blob/main/CONTRIBUTING.md)
-- [Good First Issues](https://github.com/PrivacyGecko/gecko-advisor/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [Development Setup](https://github.com/PrivacyGecko/gecko-advisor#quick-start)
+- **Website:** [Contributing Guidelines](https://github.com/PrivacyGecko/privacy-gecko-website/blob/master/CONTRIBUTING.md)
+- **Gecko Advisor:** [Contributing Guidelines](https://github.com/PrivacyGecko/gecko-advisor/blob/main/CONTRIBUTING.md)
+- [Good First Issues](https://github.com/search?q=org%3APrivacyGecko+label%3A%22good+first+issue%22+state%3Aopen&type=issues)
+- **Website Setup:** [Development Guide](https://github.com/PrivacyGecko/privacy-gecko-website#-getting-started)
+- **Gecko Advisor Setup:** [Quick Start](https://github.com/PrivacyGecko/gecko-advisor#quick-start)
 
 ---
 
