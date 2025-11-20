@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦎 Privacy Gecko
+# Privacy Gecko
 
 **Privacy Protection for the Modern Internet**
 
@@ -72,8 +72,6 @@ Send files securely with E2E encryption and automatic deletion. No accounts requ
 
 | Tool | Status | Purpose |
 |------|--------|---------|
-| **Gecko Guard** | 90% | Real-time tracker blocking & content filtering |
-| **Gecko Lock** | 65% | Encrypted password manager with breach detection |
 | **Gecko Watch** | 55% | Website privacy monitoring & alerts |
 | **Gecko View** | 45% | Privacy-respecting browsing with built-in protection |
 | **Gecko Shell** | 30% | Secure command-line environment |
